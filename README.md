@@ -7,3 +7,8 @@
 
 <img width="24" height="24" src="https://img.icons8.com/color/48/folder-invoices--v1.png" alt="folder-invoices--v1"/> Exercícios aula 4 - Pandas
 
+<img width="24" height="24" src="https://img.icons8.com/color/48/folder-invoices--v1.png" alt="folder-invoices--v1"/> Exercícios aula 5 - Titanic
+
+<img width="24" height="24" src="https://img.icons8.com/color/48/folder-invoices--v1.png" alt="folder-invoices--v1"/> Exercícios aula 6 - Desafio Ifood
+
+<img width="24" height="24" src="https://img.icons8.com/color/48/folder-invoices--v1.png" alt="folder-invoices--v1"/> Exercícios aula 7 - EDA
